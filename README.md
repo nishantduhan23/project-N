@@ -1,6 +1,6 @@
-# My Special Moments - Girlish Personal Application
+# Memoire d'Amour
 
-This is a beautiful, girlish, and secure web application where you can store your memories, photos, and videos, along with a birthday countdown timer and private notes.
+This is a beautiful, and secure web application where you can store your memories, photos, and videos, along with a birthday countdown timer and private notes.
 
 ## Features
 
